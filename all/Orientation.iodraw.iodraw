@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F5X79PNoeevtml-sK2gT-1" value="&lt;div&gt;Maths&lt;/div&gt;&lt;div&gt;Physique-Chimie&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F5X79PNoeevtml-sK2gT-2" value="&lt;div&gt;Maths&lt;/div&gt;&lt;div&gt;NSI&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="760" width="120" height="80" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="820" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F5X79PNoeevtml-sK2gT-8" value="MP" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="827" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F5X79PNoeevtml-sK2gT-9" value="MPI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="520" width="120" height="80" as="geometry" />
