@@ -102,8 +102,8 @@
             <mxPoint x="68.5" y="1280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJg95Tba4UmaEkTGu_eP-2" value="tour_joueur = faux" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="231" y="1320" width="120" height="40" as="geometry" />
+        <mxCell id="bJg95Tba4UmaEkTGu_eP-2" value="tour_joueur = 0" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="231" y="1390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bJg95Tba4UmaEkTGu_eP-6" target="bJg95Tba4UmaEkTGu_eP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJg95Tba4UmaEkTGu_eP-47" value="tour_joueur = vrai" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="bJg95Tba4UmaEkTGu_eP-47" value="tour_joueur = 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="444" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bJg95Tba4UmaEkTGu_eP-49" target="bJg95Tba4UmaEkTGu_eP-51" edge="1">
@@ -235,7 +235,7 @@
             <mxPoint x="-10" y="1340" as="sourcePoint" />
             <mxPoint x="400" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-70" y="1340" />
+              <mxPoint x="-70" y="1410" />
               <mxPoint x="-70" y="460" />
             </Array>
           </mxGeometry>
@@ -268,6 +268,9 @@
         </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-108" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="941.25" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wb5nYBvFvfobpdkQ54Wi-0" value="compteur_joueur += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-6.5" y="1250" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
