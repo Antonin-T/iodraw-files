@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2049" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -84,13 +84,8 @@
         <mxCell id="VB8gwwyT3UDizMUdiMD2-21" value="&quot;Coulé !&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1071.52" y="910" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bJg95Tba4UmaEkTGu_eP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bJg95Tba4UmaEkTGu_eP-83" target="bJg95Tba4UmaEkTGu_eP-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1011.52" y="1040" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-2" value="tour_joueur ← 0" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-849.02" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="-849.02" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bJg95Tba4UmaEkTGu_eP-6" target="bJg95Tba4UmaEkTGu_eP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,6 +184,9 @@
         <mxCell id="bJg95Tba4UmaEkTGu_eP-68" value="&quot;Raté !&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-849.02" y="630" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3cBvLqReGPaPKwQ3pz8n-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bJg95Tba4UmaEkTGu_eP-83" target="3cBvLqReGPaPKwQ3pz8n-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bJg95Tba4UmaEkTGu_eP-83" value="MAJ état case de la grille &lt;br&gt;de tir et d&#39;affichage" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1096.52" y="990" width="170" height="40" as="geometry" />
         </mxCell>
@@ -209,7 +207,7 @@
             <mxPoint x="-1090.02" y="1100" as="sourcePoint" />
             <mxPoint x="-680.02" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1150" y="1090" />
+              <mxPoint x="-1150" y="1150" />
               <mxPoint x="-1150" y="220" />
             </Array>
           </mxGeometry>
@@ -257,6 +255,12 @@
         </mxCell>
         <mxCell id="nHwlz5SUyTdGBkHe79bJ-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Coucou !&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-123.99999999999999" y="603" width="59.98" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3cBvLqReGPaPKwQ3pz8n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3cBvLqReGPaPKwQ3pz8n-0" target="bJg95Tba4UmaEkTGu_eP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3cBvLqReGPaPKwQ3pz8n-0" value="compteur_joueur += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1096.52" y="1070" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
